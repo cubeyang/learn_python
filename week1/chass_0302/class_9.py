@@ -10,6 +10,6 @@
 # #     print('数据类型：', *a)
 # # t=((1,2),(3,4))
 # # add(t)
-for i in (1,2,3,4,5):
-    print(' '*(5-i),end=' ')
-    print(' *'*i)
+for i in (1, 2, 3, 4, 5):
+    print(' ' * (5 - i), end=' ')
+    print(' *' * i)
