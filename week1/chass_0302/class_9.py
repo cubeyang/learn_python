@@ -7,7 +7,7 @@
 # @Software: PyCharm
 # def add(*a):
 # #     print('数据类型：', a)
-# #     print('数据类型：', *a)
+# #     print('数据类型：', *a)1411
 # # t=((1,2),(3,4))
 # # add(t)
 for i in (1, 2, 3, 4, 5):
